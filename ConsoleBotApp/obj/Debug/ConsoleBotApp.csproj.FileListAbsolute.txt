@@ -1,0 +1,61 @@
+D:\Binance\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+D:\Binance\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+D:\Binance\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+D:\Binance\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+D:\Binance\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+D:\Binance\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.AssemblyReference.cache
+D:\Binance\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+D:\Binance\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CopyComplete
+D:\Binance\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+D:\Binance\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CopyComplete
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+D:\Google Drive\Binance\Code\New\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.AssemblyReference.cache
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CopyComplete
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+C:\Users\conq\Downloads\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.AssemblyReference.cache
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+D:\Google Drive\Binance\Code\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.AssemblyReference.cache
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CopyComplete
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+C:\Users\conq\Desktop\ConsoleBotAppNew\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe.config
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.exe
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\bin\Debug\ConsoleBotApp.pdb
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.AssemblyReference.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CoreCompileInputs.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.csproj.CopyComplete
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.exe
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotApp\obj\Debug\ConsoleBotApp.pdb

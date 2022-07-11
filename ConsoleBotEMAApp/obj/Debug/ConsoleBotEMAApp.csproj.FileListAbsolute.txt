@@ -1,0 +1,11 @@
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\bin\Debug\ConsoleBotEMAApp.exe.config
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\bin\Debug\ConsoleBotEMAApp.exe
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\bin\Debug\ConsoleBotEMAApp.pdb
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.csproj.AssemblyReference.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.csproj.CoreCompileInputs.cache
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.csproj.CopyComplete
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.exe
+C:\Users\conq\Desktop\New folder\ConsoleBotApp\ConsoleBotEMAApp\obj\Debug\ConsoleBotEMAApp.pdb
